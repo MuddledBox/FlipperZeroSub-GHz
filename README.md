@@ -6,3 +6,5 @@ Add to your X:\subghz folder on your SD card!
 Originally from: https://github.com/samyk/opensesame/
 
 UNLOCKED FIRMWARE REQUIRED!
+
+Available here: https://github.com/MuddledBox/flipperzero-firmware/releases
